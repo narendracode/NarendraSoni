@@ -1,0 +1,30 @@
+Script started on Sun Sep 21 10:48:16 2014
+[?1034hbash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ clera
+bash: clera: command not found
+bash-3.2$ clear
+[H[2Jbash-3.2$ cd
+bash-3.2$ cd
+bash-3.2$ clear
+[H[2Jbash-3.2$ pwd
+/Users/narendra
+bash-3.2$ ls
+1                             [1m[34mLibrary[39;49m[0m                       RUNNING_PID                   map1.apk
+[1m[34mApplications[39;49m[0m                  LocationFinder                TEST                          [1m[34mmy-first-app[39;49m[0m
+DatingApp.apk                 LocationFinder.apk            [1m[34mWorkspaces[39;49m[0m                    [1m[34mmynodejs[39;49m[0m
+[1m[34mDesktop[39;49m[0m                       [1m[34mMovies[39;49m[0m                        a.txt                         nano.save
+[1m[34mDocuments[39;49m[0m                     [1m[34mMusic[39;49m[0m                         a.txt~                        [1m[34mnode_modules[39;49m[0m
+[1m[34mDownloads[39;49m[0m                     [1m[34mMy Online Documents[39;49m[0m           abc.txt                       [1m[34mresponsiveDemo[39;49m[0m
+[1m[34mDropbox[39;49m[0m                       Mylocation.apk                command                       [1m[34mtarget[39;49m[0m
+[1m[34mGoogle Drive[39;49m[0m                  [1m[34mNetBeansProjects[39;49m[0m              datingapp                     [1m[34mtmp[39;49m[0m
+KillerMobiLocationFinder      [1m[34mPictures[39;49m[0m                      [1m[34mdumps[39;49m[0m
+KillerMobiLocationFinder.apk  [1m[34mProjects[39;49m[0m                      [1m[34mglassfish3[39;49m[0m
+KillerMobiLocationFinder3.apk [1m[34mPublic[39;49m[0m                        [1m[34mlibcurl.framework[39;49m[0m
+bash-3.2$ 
